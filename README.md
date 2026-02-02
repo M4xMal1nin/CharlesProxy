@@ -3,7 +3,7 @@
 <p>
 В рамках практического тестирования я использовал <a href="https://www.charlesproxy.com/" target="_blank"><strong>Charles Proxy</strong></a>
 для анализа, перехвата и модификации HTTP/HTTPS-трафика,
-а также для проверки поведения корзины <a href="https://demowebshop.tricentis.com/cart" target="_blank"><strong>Demo Web Shop.</strong></a>
+а также для проверки поведения демо сайта интернет магазина <a href="https://demowebshop.tricentis.com/cart" target="_blank"><strong>Demo Web Shop.</strong></a>
 </p>
 
 <p>
