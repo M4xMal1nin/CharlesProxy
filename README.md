@@ -1,7 +1,7 @@
-<h1>🍶 <a href="https://www.charlesproxy.com/" target="_blank">Charles Proxy</a></h1>
+<h1>🍶 Charles Proxy </h1>
 
 <p>
-В рамках практического тестирования я использовал <strong>Charles Proxy</strong>
+В рамках практического тестирования я использовал <a href="https://www.charlesproxy.com/" target="_blank"><strong>Charles Proxy</strong></a>
 для анализа, перехвата и модификации HTTP/HTTPS-трафика,
 а также для проверки поведения корзины <a href="https://demowebshop.tricentis.com/cart" target="_blank"><strong>Demo Web Shop.</strong></a>
 </p>
