@@ -9,7 +9,7 @@
 <p>
 Ниже представлены видеодемонстрации работы с сетевыми запросами
 и ответами с использованием <strong>Charles Proxy</strong>
-для веб-приложения в <strong>Google Chrome на MacBook Air</strong>:
+для веб-приложения в <strong>Mozilla Firefox на MacBook Air</strong>:
 </p>
 
 <ul>
